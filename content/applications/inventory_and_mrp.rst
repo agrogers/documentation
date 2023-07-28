@@ -13,3 +13,4 @@ Inventory & MRP
     inventory_and_mrp/barcode
     inventory_and_mrp/quality
     inventory_and_mrp/maintenance
+    inventory_and_mrp/plm
