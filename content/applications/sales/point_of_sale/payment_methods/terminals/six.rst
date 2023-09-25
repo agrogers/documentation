@@ -8,6 +8,7 @@ ease the work of your cashiers.
 .. warning::
    - Starting in July 2022, it will **not** be possible anymore to connect and use a Six payment
      terminal in PoS.
+   - This module therefore becomes obsolete and is replaced by :doc:`Pos IoT Six </applications/sales/point_of_sale/payment_methods/terminals/six_iot>`.
    - Even though Worldline has recently acquired SIX Payment Services and both companies use Yomani
      payment terminals, the firmware they run is different. Terminals received from Worldline are
      therefore not compatible with this integration.
