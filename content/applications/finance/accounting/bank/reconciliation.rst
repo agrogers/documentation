@@ -93,3 +93,8 @@ right and validate all related payments :
 
 .. seealso::
    :doc:`bank_synchronization`
+
+.. toctree::
+   :titlesonly:
+
+   reconciliation/reconciliation_models
